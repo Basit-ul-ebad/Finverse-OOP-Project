@@ -41,7 +41,7 @@ src/main/java/com/mycompany/f1_oop_project/
 ### Class Diagram
 Below is the class diagram of the FinVerse system:
 
-![Class Diagram](docs/class_diagram.png)
+![Class Diagram](src/docs/class_diagram.png)
 
 ## ⚙️ Installation & Setup
 
