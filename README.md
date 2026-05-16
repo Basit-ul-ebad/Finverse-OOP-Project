@@ -36,6 +36,13 @@ src/main/java/com/mycompany/f1_oop_project/
 └── GUI Classes            # Swing Implementation
 ```
 
+## 🧩 System Design
+
+### Class Diagram
+Below is the class diagram of the FinVerse system:
+
+![Class Diagram](docs/class-diagram.png)
+
 ## ⚙️ Installation & Setup
 
 1.  **Prerequisites**:
