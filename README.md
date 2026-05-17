@@ -70,12 +70,13 @@ Below is the class diagram of the FinVerse system:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Basit_Ul_Ebad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/basit-ul-ebad-qureshi-10a62a293/)
-[![Email](https://img.shields.io/badge/Email-basit.ul.ibad@gmail.com-red?style=flat&logo=gmail)](mailto:basit.ul.ibad@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B92_333_3874758-green?style=flat&logo=whatsapp)](tel:+923333874758)
-
 
 ---
 *Developed as part of the 3rd Semester OOP Final Project.*
+---
+
+## Connect 
+
+[![GitHub](https://img.shields.io/badge/GitHub-basit--ebad-black?style=flat&logo=github)](https://github.com/basit-ebad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Basit_Ul_Ebad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/basit-ul-ebad-qureshi-10a62a293/)
+[![Email](https://img.shields.io/badge/Email-basit.ul.ibad@gmail.com-red?style=flat&logo=gmail)](mailto:basit.ul.ibad@gmail.com)
